@@ -1,3 +1,5 @@
-# App README
+# NetApp Trident Storage Orchestrator
 
-This is some other interesting stuff to say.
+This application will enable you to intelligently create stateful applications with Kubernetes.  
+
+For more information about how NetApp can help you with data and application mobility, visit https://cloud.netapp.com

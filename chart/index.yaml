@@ -3,9 +3,20 @@ entries:
   trident-installer:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2020-10-06T10:42:09.570023-06:00"
+    created: "2020-10-06T14:22:14.29004-06:00"
+    description: Operator to install NetApp/Trident
+    digest: 0526491add5a757ac13fe7a6b1a1f166d17285028f401bb4c1a8fb3a37f10223
+    icon: file://logo.png
+    name: trident-installer
+    type: application
+    urls:
+    - trident-installer-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2020-10-06T14:22:14.28905-06:00"
     description: Operator that installs NetApp/Trident
-    digest: a81738fb98c086f4f1430bc1d605e0e4ecf8c162e233b34c5c401b09edc84d06
+    digest: f31d9715037fe3feac45d469f5043c40d0a65165eb07570285e4953fcafe8593
     name: trident-installer
     type: application
     urls:
@@ -13,7 +24,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2020-10-06T10:42:09.56946-06:00"
+    created: "2020-10-06T14:22:14.288652-06:00"
     description: Operator that installs NetApp/Trident
     digest: 50048f6a21f4004e968d0599b50413e6cbe8303f1adc22bcd06fe99752d5fe7e
     name: trident-installer
@@ -21,4 +32,4 @@ entries:
     urls:
     - trident-installer-0.1.0.tgz
     version: 0.1.0
-generated: "2020-10-06T10:42:09.568392-06:00"
+generated: "2020-10-06T14:22:14.288105-06:00"

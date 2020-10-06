@@ -1,3 +1,5 @@
-# Chart README
+# Detailed  Descriptions for the Trident App
 
-This is some other interesting stuff to say.
+## Detailed Documentation
+
+You can find details about Trident at it's [documentation site](https://netapp-trident.readthedocs.io/en/stable-v20.07/).
