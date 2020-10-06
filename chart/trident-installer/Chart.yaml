@@ -1,7 +1,7 @@
 apiVersion: v2
 name: trident-installer
 description: Operator to install NetApp/Trident
-icon: https://github.com/hulquest/TridentInstaller/blob/add-rancher-chart-details/chart/logo.png
+icon: file://./logo.png
 
 # A chart can be either an 'application' or a 'library' chart.
 #
